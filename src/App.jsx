@@ -9,7 +9,7 @@ function App() {
       </header>
 
       <main className="container">
-        <h1>Hello, DevOps! 🚀</h1>
+        <h1>welcome to devops🚀</h1>
 
         <p>
           This is a simple React frontend for practicing
